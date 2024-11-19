@@ -10,4 +10,4 @@ E tenho interesse em aprender:
   - Espresso;
   - Java com orientação a objetos.
 
-Primeira vez mexendo com git e realizando projetos, dicas e sugestões são bem-vindas
+Primeira vez mexendo com github e realizando projetos, dicas e sugestões são bem-vindas!
